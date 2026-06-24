@@ -85,7 +85,6 @@ Estudiante de **Desarrollo de Software** enfocado en crear soluciones prácticas
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Arquableactor/Arquableactor/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arquableactor&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 
 </div>
 
