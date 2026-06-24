@@ -133,7 +133,7 @@ Seguir creciendo como desarrollador de software en backend, APIs, bases de datos
 ## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Arquableactor-ff2e97?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arquableactor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pr%C3%B3ximamente-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pr%C3%B3ximamente-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-galva/)
 [![Email](https://img.shields.io/badge/Email-cont%C3%A1ctame-34e1ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrega-tu-correo-aqui)
 
 ---
