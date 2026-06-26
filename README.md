@@ -131,7 +131,7 @@ Seguir creciendo como desarrollador de software en backend, APIs, bases de datos
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-acc%C3%B3cede-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-galva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-acccede-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-galva/)
 
 ---
 
